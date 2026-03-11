@@ -1,0 +1,23 @@
+  # 爱奇艺 TV 广告域名
+  - DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
+  - DOMAIN-SUFFIX,afp.iqiyi.com
+  - DOMAIN-SUFFIX,track.cupid.iqiyi.com
+  - DOMAIN-SUFFIX,msg.71.am
+  - DOMAIN-SUFFIX,rcd.iqiyi.com
+  - DOMAIN-SUFFIX,ads.iqiyi.com
+
+  # 腾讯视频 TV 广告域名
+  - DOMAIN-SUFFIX,l.qq.com
+  - DOMAIN-SUFFIX,v.admaster.com.cn
+  - DOMAIN-SUFFIX,tmead.y.qq.com
+  - DOMAIN-SUFFIX,ad.qq.com
+  - DOMAIN-SUFFIX,video.qq.com
+  - DOMAIN-SUFFIX,adsfile.qq.com
+
+  # 优酷 TV 广告域名
+  - DOMAIN-SUFFIX,valf.atm.youku.com
+  - DOMAIN-SUFFIX,ad.mobile.youku.com
+  - DOMAIN-SUFFIX,statis.api.youku.com
+  - DOMAIN-SUFFIX,ad.api.3g.youku.com
+  - DOMAIN-SUFFIX,adcontrol.tudou.com
+  - DOMAIN-SUFFIX,ads.youku.com
